@@ -1,0 +1,16 @@
+
+.header{
+font-size:25px;
+padding:20px;
+background-color:#red;
+}
+
+.header-logo{
+font-size:70px;
+color:#blue;
+padding:50px 25px;
+}
+.header-list{
+float:right;
+font-size:35px;
+}
